@@ -1,0 +1,13 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    color: #333;
+    padding: 2em;
+}
+h1 {
+    color: #0055aa;
+}
+#dreams-list {
+    margin-top: 2em;
+}
